@@ -18,7 +18,7 @@ I am an enthusiastic and dedicated computer science student currently studying a
   - **Minesweeper**: A graphical user interface (GUI) version of the classic Minesweeper game. It allows users to reveal cells, flag mines, and compete to clear the board without detonating any mines.
   - **Blackjack**: A command-line simulation of the classic Blackjack card game, complete with traditional rules and dealer simulation.
 
-- ### Work Experience
+- ### Relevant Work Experience
   - **Software Engineering Intern**
     - **Robotics for All**
     - Palo Alto, California, United States
