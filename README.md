@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Ajay!
 
-I am an enthusiastic and dedicated software development student currently studying at the University of Florida. As an incoming third-year student, I have a solid foundation in computer science principles and hands-on experience with various programming languages and tools. My passion lies in creating efficient, innovative, and user-friendly software solutions.
+I am an enthusiastic and dedicated computer science student currently studying at the University of Florida. As an incoming third-year student, I have a solid foundation in computer science principles and hands-on experience with various programming languages and tools. My passion lies in creating efficient, innovative, and user-friendly software solutions.
 
 ## 🎓 Education
 
@@ -46,20 +46,18 @@ I am an enthusiastic and dedicated software development student currently studyi
 
 ## 💡 Skills
 
-- **Programming Languages**: Python, Java, C++, JavaScript
-- **Web Development**: HTML, CSS, React
-- **Tools and Technologies**: Git, GitHub, Command Line, SQL, REST APIs
-- **Soft Skills**: Problem-solving, teamwork, communication, time management
+- **Programming Languages**: Python, C++, JavaScript, Java, R
+- **Tools and Technologies**: Git, Command Line, PowerBI, UNIX 
+- **Soft Skills**: Problem-solving, teamwork, communication, time management, precision
 
 ## 👀 Interests
 
-I am deeply interested in software development, particularly in areas like web development, machine learning, and game development. I am always eager to learn new technologies and improve my skills through hands-on projects and collaboration.
+I am deeply interested in software development, particularly in areas like backend development and machine learning. I am always eager to learn new technologies and improve my skills through hands-on projects and collaboration.
 
 ## 📫 How to Reach Me
 
-- **Email**: [yourname@gmail.com](mailto:yourname@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile URL]
-- **GitHub**: [Your GitHub Profile URL]
+- **Email**: [ajaysommi7@gmail.com](mailto:ajaysommi7@gmail.com)
+- **LinkedIn**: https://www.linkedin.com/in/ajay-sommi
 
 ## 📈 Goals
 
