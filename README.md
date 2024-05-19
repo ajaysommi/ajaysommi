@@ -12,37 +12,30 @@ I am an enthusiastic and dedicated computer science student currently studying a
 
 ## 💼 Experience
 
-- **Software Development Projects**
+- ### Software Development Projects
   - **Pakudex**: A command-line program that simulates the popular game Pokemon. It allows users to add, list, and evolve unique characters called Pakuri.
   - **CLI-PhotoEditor**: An image manipulation tool that applies various transformations to TGA format image files, including flipping, rotating, and resizing images using the command-line interface.
   - **Minesweeper**: A graphical user interface (GUI) version of the classic Minesweeper game. It allows users to reveal cells, flag mines, and compete to clear the board without detonating any mines.
   - **Blackjack**: A command-line simulation of the classic Blackjack card game, complete with traditional rules and dealer simulation.
 
-- **Internships**
-- **Research Assistant**
-  - **Florida Institute for Cybersecurity Research**
-  - Gainesville, Florida, United States
-  - *May 2023 - May 2024 (1 year 1 month)*
-  - In my role as a research assistant, I aided in a research team devoted to uncovering potential security flaws in large language models. I collaborated with a PhD student to develop and employ plug-ins tailored to assess the robustness of ChatGPT and similar AI models. My work involved meticulously studying the intricacies of language models, analyzing data, and crafting methods to identify and address potential vulnerabilities effectively.
+- ### Work Experience
+  - **Software Engineering Intern**
+    - **Robotics for All**
+    - Palo Alto, California, United States
+    - *Mar 2022 - Jan 2023 (11 months)*
+    - As a software engineering intern, I had the opportunity to use JavaScript to automate backend processes at Robotics for All, such as adding new members to the company and gathering users' contact information. As a result, when a parent registers their child for a teaching session using a Google Form, their information automatically gets stored in a database that sends emails and other pertinent information to the respective parties.
 
-- **Software Engineering Intern**
-  - **Robotics for All**
-  - Palo Alto, California, United States
-  - *Mar 2022 - Jan 2023 (11 months)*
-  - As a software engineering intern, I had the opportunity to use JavaScript to automate backend processes at Robotics for All, such as adding new members to the company and gathering users' contact information. As a result, when a parent registers their child for a teaching session using a Google Form, their information automatically gets stored in a database that sends emails and other pertinent information to the respective parties.
-
-- **Business Development Associate**
-  - **Robotics for All**
-  - Palo Alto, California, United States
-  - *Jun 2021 - Mar 2022 (10 months)*
-  - In this position, I played a crucial role in event planning, outreach, interview conduction, and recruitment of new members, contributing to the growth and success of Robotics for All. Additionally, I crafted compelling visuals and captivating marketing material for our social media platforms, including Facebook and Instagram.
-
-- **Search Engine Optimization Analyst**
-  - **Shiva Robotics Academy**
-  - Jacksonville, Florida, United States
-  - *Jun 2020 - Jul 2020 (2 months)*
-  - I collaborated with the business owner to enhance the company's online presence through strategic Search Engine Optimization (SEO) initiatives. I strategically optimized web elements, resulting in a 20% increase in organic site traffic according to marketgoo. These optimizations elevated the website's visibility and ranking on leading search engine indexes, facilitating greater organic traffic and engagement.
-
+  - **Research Assistant**
+      - **Florida Institute for Cybersecurity Research**
+      - Gainesville, Florida, United States
+      - *May 2023 - May 2024 (1 year 1 month)*
+      - In my role as a research assistant, I aided in a research team devoted to uncovering potential security flaws in large language models. I collaborated with a PhD student to develop and employ plug-ins tailored to assess the robustness of ChatGPT and similar AI models. My work involved meticulously studying the intricacies of language models, analyzing data, and crafting methods to identify and address potential vulnerabilities effectively.
+   
+  - **Search Engine Optimization Analyst**
+      - **Shiva Robotics Academy**
+      - Jacksonville, Florida, United States
+      - *Jun 2020 - Jul 2020 (2 months)*
+      - I collaborated with the business owner to enhance the company's online presence through strategic Search Engine Optimization (SEO) initiatives. I strategically optimized web elements, resulting in a 20% increase in organic site traffic according to marketgoo. These optimizations elevated the website's visibility and ranking on leading search engine indexes, facilitating greater organic traffic and engagement.
 
 ## 💡 Skills
 
