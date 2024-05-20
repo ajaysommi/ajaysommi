@@ -13,10 +13,11 @@ I am an enthusiastic and dedicated computer science student currently studying a
 ## 💼 Experience
 
 - ### Software Development Projects
-  - **Pakudex**: A command-line program that simulates the popular game Pokemon. It allows users to add, list, and evolve unique characters called Pakuri.
   - **CLI-PhotoEditor**: An image manipulation tool that applies various transformations to TGA format image files, including flipping, rotating, and resizing images using the command-line interface.
   - **Minesweeper**: A graphical user interface (GUI) version of the classic Minesweeper game. It allows users to reveal cells, flag mines, and compete to clear the board without detonating any mines.
+  - **Pakudex**: A command-line program that simulates the popular game Pokemon. It allows users to add, list, and evolve unique characters called Pakuri.
   - **Blackjack**: A command-line simulation of the classic Blackjack card game, complete with traditional rules and dealer simulation.
+  - **Sudoku**: A graphical user interface (GUI) version of the classic Sudoku puzzle game, allowing users to solve and interact with puzzles on the screen.
 
 - ### Relevant Work Experience
   - **Software Engineering Intern**
