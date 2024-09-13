@@ -1,63 +1,65 @@
-## 👋 Hi, I’m Ajay!
+## 👋 Hey there, I’m Ajay!
 
-I am an enthusiastic and dedicated computer science student currently studying at the University of Florida. As an incoming third-year student, I have a solid foundation in computer science principles and hands-on experience with various programming languages and tools. My passion lies in creating efficient, innovative, and user-friendly software solutions.
+I’m a third-year computer science student at the University of Florida with a love for tackling interesting tech challenges. Whether it’s coding up a new project or finding creative solutions, I’m always up for diving into something new. I’ve picked up some solid programming skills and hands-on experience along the way, and I’m excited to see where the next project takes me. Feel free to explore my repositories and see what I’m working on—I’m always keen to share and collaborate on cool tech projects!
 
 ## 🎓 Education
 
-- **University of Florida**
+- **University of Florida**  
+  *Bachelor of Science in Computer Science* (Third-year student)  
+  **Relevant Coursework**: Data Structures and Algorithms, Programming Fundamentals 1 & 2, Computational Linear Algebra, Engineering Statistics, Applications of Discrete Structures, Artificial Intelligence Fundamentals
 
-  - Bachelor of Science in Computer Science
-  - Incoming third-year student
-  - Relevant coursework: Programming Fundamentals 1 & 2, Data Structures and Algorithms, Computational Linear Algebra, Engineering Statistics, Applications of Discrete Structures, Artificial Intelligence Fundamentals
 
-## 💼 Experience
+## 🕹️ Software Development Projects
 
-- ### Software Development Projects
-  - **CLI-PhotoEditor**: An image manipulation tool that applies various transformations to TGA format image files, including flipping, rotating, and resizing images using the command-line interface.
-  - **Minesweeper**: A graphical user interface (GUI) version of the classic Minesweeper game. It allows users to reveal cells, flag mines, and compete to clear the board without detonating any mines.
-  - **Pakudex**: A command-line program that simulates the popular game Pokemon. It allows users to add, list, and evolve unique characters called Pakuri.
-  - **Blackjack**: A command-line simulation of the classic Blackjack card game, complete with traditional rules and dealer simulation.
-  - **Sudoku**: A graphical user interface (GUI) version of the classic Sudoku puzzle game, allowing users to solve and interact with puzzles on the screen.
+- **CLI-PhotoEditor**  
+  Crafted a robust command-line tool that transforms images like a pro. From flipping and rotating to resizing TGA files, this tool handles multiple images at once, making bulk edits a breeze. Ideal for anyone needing powerful image manipulation without the fuss of a GUI.
 
-- ### Relevant Work Experience
-  - **Software Engineering Intern**
-    - **Robotics for All**
-    - Palo Alto, California, United States
-    - *Mar 2022 - Jan 2023 (11 months)*
-    - As a software engineering intern, I had the opportunity to use JavaScript to automate backend processes at Robotics for All, such as adding new members to the company and gathering users' contact information. As a result, when a parent registers their child for a teaching session using a Google Form, their information automatically gets stored in a database that sends emails and other pertinent information to the respective parties.
+- **Minesweeper**  
+  Brought the classic Minesweeper game to life with a sleek graphical interface. Dive into the game where you can flag mines, reveal hidden cells, and tackle increasingly challenging boards. Perfect for those who love a good strategic puzzle with a visual twist.
 
-  - **Research Assistant**
-      - **Florida Institute for Cybersecurity Research**
-      - Gainesville, Florida, United States
-      - *May 2023 - May 2024 (1 year 1 month)*
-      - In my role as a research assistant, I aided in a research team devoted to uncovering potential security flaws in large language models. I collaborated with a PhD student to develop and employ plug-ins tailored to assess the robustness of ChatGPT and similar AI models. My work involved meticulously studying the intricacies of language models, analyzing data, and crafting methods to identify and address potential vulnerabilities effectively.
-   
-  - **Search Engine Optimization Analyst**
-      - **Shiva Robotics Academy**
-      - Jacksonville, Florida, United States
-      - *Jun 2020 - Jul 2020 (2 months)*
-      - I collaborated with the business owner to enhance the company's online presence through strategic Search Engine Optimization (SEO) initiatives. I strategically optimized web elements, resulting in a 20% increase in organic site traffic according to marketgoo. These optimizations elevated the website's visibility and ranking on leading search engine indexes, facilitating greater organic traffic and engagement.
+- **Pakudex**  
+  Reimagined the Pokémon universe in a command-line adventure. Manage and evolve your unique Pakuri creatures, adding new ones and listing them with ease. This project captures the fun of Pokémon in a CLI format, perfect for fans of retro gaming with a tech twist.
+
+- **Blackjack**  
+  Recreated the thrill of Blackjack in a command-line simulation. This project packs all the excitement of card dealing, dealer strategies, and player decisions into a simple CLI game. Experience the high stakes and strategic play of Blackjack right from your terminal.
+
+- **Sudoku**  
+  Transformed the classic Sudoku puzzle into an engaging GUI experience. Solve puzzles with interactive features like drag-and-drop and real-time validation. This version makes solving Sudoku not just a challenge but a visually captivating and interactive experience.
+
+
+## 💼 Relevant Work Experience
+
+- **Data Science/Analytics Intern** | **Southeast Toyota Distributors, LLC** | Jacksonville, Florida, United States  
+  *Jun 2024 - Aug 2024 (11 months)*  
+  Engineered Python solutions with REST API to extract 1000+ URLs from Azure Blob Storage, retrieve Excel files, and upload them to SharePoint. Utilized SQL for tire/wheel data analysis of 51,000+ vehicles, producing 21+ reports. Automated tracking of 160+ accessory projects, boosting data visibility by 30%. Implemented OCR techniques for data input and designed a Power BI dashboard, reducing project entry time by 500%.
+
+- **Software Engineering Intern** | **Robotics For All** | Palo Alto, California, United States  
+  *Mar 2022 - Jan 2023 (11 months)*  
+  Automated backend processes using JavaScript, including adding new members and gathering contact information. Integrated Google Forms to store user data and automate email notifications, streamlining communication workflows.
+
+- **Research Assistant** | **Florida Institute for Cybersecurity Research** | Gainesville, Florida, United States  
+  *May 2023 - May 2024 (1 year 1 month)*  
+  Collaborated on uncovering security flaws in large language models. Developed plug-ins to assess ChatGPT robustness and crafted methods to identify and address vulnerabilities in AI models.
+
+- **Search Engine Optimization Analyst** | **Shiva Robotics Academy** | Jacksonville, Florida, United States  
+  *Jun 2020 - Jul 2020 (2 months)*  
+  Led SEO strategies, resulting in a 20% increase in organic traffic via marketgoo analytics. Optimized web elements to enhance search engine rankings and boost website visibility.
 
 ## 💡 Skills
 
-- **Programming Languages**: Python, C++, JavaScript, Java, R
-- **Tools and Technologies**: Git, Command Line, PowerBI, UNIX 
-- **Soft Skills**: Problem-solving, teamwork, communication, time management, precision
+- **Programming Languages**: Python, C++, Java, JavaScript, HTML & CSS, R, SQL, DAX, MATLAB, VBA  
+- **Technologies**: JetBrains IDEs, Git, Power BI, GDB, Microsoft Office, Google Apps Script, Node.js, JSON, Oracle, Pandas, Tkinter, REST API, Microsoft Azure, Amazon RDS, Azure Blob Storage, TensorFlow
+- **Soft Skills**: Agile, problem-solving, teamwork, communication, time management, precision
 
 ## 👀 Interests
 
-I am deeply interested in software development, particularly in areas like backend development and machine learning. I am always eager to learn new technologies and improve my skills through hands-on projects and collaboration.
+Software development, particularly backend development and machine learning. Eager to learn new technologies and enhance skills through projects and collaboration.
 
 ## 📫 How to Reach Me
 
-- **Email**: [ajaysommi7@gmail.com](mailto:ajaysommi7@gmail.com)
-- **LinkedIn**: https://www.linkedin.com/in/ajay-sommi
+- **Email**: [ajaysommi7@gmail.com](mailto:ajaysommi7@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/ajay-sommi](https://www.linkedin.com/in/ajay-sommi)
 
 ## 📈 Goals
 
-I am actively seeking internship opportunities in software development where I can apply my skills, learn from experienced professionals, and contribute to meaningful projects. My goal is to gain practical experience and continue to grow as a developer, ultimately preparing for a successful career in the tech industry.
-  
-<!---
-ajaysommi/ajaysommi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Seeking internship opportunities in software development to apply skills, learn from industry professionals, and contribute to meaningful projects. Aiming to gain practical experience and continue growth as a developer, preparing for a successful tech career.
