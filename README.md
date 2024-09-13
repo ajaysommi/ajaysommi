@@ -30,7 +30,7 @@ I’m a third-year computer science student at the University of Florida with a 
 ## 💼 Relevant Work Experience
 
 - **Data Science/Analytics Intern** | **Southeast Toyota Distributors, LLC** | Jacksonville, Florida, United States  
-  *Jun 2024 - Aug 2024 (11 months)*  
+  *Jun 2024 - Aug 2024 (3 months)*  
   Engineered Python solutions with REST API to extract 1000+ URLs from Azure Blob Storage, retrieve Excel files, and upload them to SharePoint. Utilized SQL for tire/wheel data analysis of 51,000+ vehicles, producing 21+ reports. Automated tracking of 160+ accessory projects, boosting data visibility by 30%. Implemented OCR techniques for data input and designed a Power BI dashboard, reducing project entry time by 500%.
 
 - **Software Engineering Intern** | **Robotics For All** | Palo Alto, California, United States  
