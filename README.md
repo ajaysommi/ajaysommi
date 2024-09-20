@@ -11,6 +11,12 @@ I’m a third-year computer science student at the University of Florida with a 
 
 ## 🕹️ Software Development Projects
 
+- **VehicleInsightHub**  
+  Unlocks powerful vehicle monitoring with a live, easy-to-use dashboard that gives you the full picture in seconds. From tracking fuel efficiency to keeping an eye on tire pressure and engine health, this tool turns raw data into clear, actionable insights. Whether you’re managing a fleet or just love your car, it’s your go-to hub for smarter decisions and hassle-free maintenance!
+
+- **BalanceTree**  
+  Optimizes data management with an AVL Tree that self-balances for fast, efficient operations. Handle inserts, deletes, and lookups with ease and speed. Ideal for anyone needing top-notch performance in data structures.
+  
 - **CLI-PhotoEditor**  
   Crafted a robust command-line tool that transforms images like a pro. From flipping and rotating to resizing TGA files, this tool handles multiple images at once, making bulk edits a breeze. Ideal for anyone needing powerful image manipulation without the fuss of a GUI.
 
@@ -29,7 +35,7 @@ I’m a third-year computer science student at the University of Florida with a 
 
 ## 💼 Relevant Work Experience
 
-- **Data Science/Analytics Intern** | **Southeast Toyota Distributors, LLC** | Jacksonville, Florida, United States  
+- **Software Engineering Intern** | **Southeast Toyota Distributors, LLC** | Jacksonville, Florida, United States  
   *Jun 2024 - Aug 2024 (3 months)*  
   Engineered Python solutions with REST API to extract 1000+ URLs from Azure Blob Storage, retrieve Excel files, and upload them to SharePoint. Utilized SQL for tire/wheel data analysis of 51,000+ vehicles, producing 21+ reports. Automated tracking of 160+ accessory projects, boosting data visibility by 30%. Implemented OCR techniques for data input and designed a Power BI dashboard, reducing project entry time by 500%.
 
@@ -37,7 +43,7 @@ I’m a third-year computer science student at the University of Florida with a 
   *Mar 2022 - Jan 2023 (11 months)*  
   Automated backend processes using JavaScript, including adding new members and gathering contact information. Integrated Google Forms to store user data and automate email notifications, streamlining communication workflows.
 
-- **Research Assistant** | **Florida Institute for Cybersecurity Research** | Gainesville, Florida, United States  
+- **AI Cybersecurity Researcher** | **Florida Institute for Cybersecurity Research** | Gainesville, Florida, United States  
   *May 2023 - May 2024 (1 year 1 month)*  
   Collaborated on uncovering security flaws in large language models. Developed plug-ins to assess ChatGPT robustness and crafted methods to identify and address vulnerabilities in AI models.
 
@@ -45,9 +51,14 @@ I’m a third-year computer science student at the University of Florida with a 
   *Jun 2020 - Jul 2020 (2 months)*  
   Led SEO strategies, resulting in a 20% increase in organic traffic via marketgoo analytics. Optimized web elements to enhance search engine rankings and boost website visibility.
 
+- **Software Developer** | **Renaissance Jax** | Jacksonville, Florida, United States  
+  *Sep 2019 - Feb 2020 (2 months)*  
+  Engineered a high-performance vision system with real-time color detection, optimizing robot interactions for the FIRST Robotics Competition. Enhanced hardware-software  integration and used GitHub for streamlined collaboration and rapid development.
+
+
 ## 💡 Skills
 
-- **Programming Languages**: Python, C++, Java, JavaScript, HTML & CSS, R, SQL, DAX, MATLAB, VBA  
+- **Programming Languages**: Python, C++, Java, JavaScript, HTML & CSS, R, SQL, ARM Assembly Language, DAX, MATLAB, VBA
 - **Technologies**: JetBrains IDEs, Git, Power BI, GDB, Microsoft Office, Google Apps Script, Node.js, JSON, Oracle, Pandas, Tkinter, REST API, Microsoft Azure, Amazon RDS, Azure Blob Storage, TensorFlow
 - **Soft Skills**: Agile, problem-solving, teamwork, communication, time management, precision
 
