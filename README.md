@@ -6,11 +6,14 @@ I’m a third-year computer science student at the University of Florida with a 
 
 - **University of Florida**  
   *Bachelor of Science in Computer Science* (Third-year student)  
-  **Relevant Coursework**: Data Structures and Algorithms, Programming Fundamentals 1 & 2, Computational Linear Algebra, Engineering Statistics, Applications of Discrete Structures, Artificial Intelligence Fundamentals
+  **Relevant Coursework**: Data Structures & Algorithms, Programming Fundamentals 1 & 2, Computational Linear Algebra, Engineering Statistics, Applications of Discrete Structures, Artificial Intelligence Fundamentals, Operating Systems
 
 
 ## 🕹️ Software Development Projects
 
+- **CrashFatalityAnalysis**  
+  Analyze real vehicle fatality data from 1996 to 2022 with this dynamic dashboard. It enables you to explore fatality rates by make, model, and year, helping identify vehicles with the highest fatality rates and uncover discrepancies in crash ratings. Ideal for researchers and anyone interested in evaluating the real-world safety of vehicles beyond official ratings.
+  
 - **VehicleInsightHub**  
   Unlocks powerful vehicle monitoring with a live, easy-to-use dashboard that gives you the full picture in seconds. From tracking fuel efficiency to keeping an eye on tire pressure and engine health, this tool turns raw data into clear, actionable insights. Whether you’re managing a fleet or just love your car, it’s your go-to hub for smarter decisions and hassle-free maintenance!
 
@@ -58,8 +61,8 @@ I’m a third-year computer science student at the University of Florida with a 
 
 ## 💡 Skills
 
-- **Programming Languages**: Python, C++, Java, JavaScript, HTML & CSS, R, SQL, ARM Assembly Language, DAX, MATLAB, VBA
-- **Technologies**: JetBrains IDEs, Git, Power BI, GDB, Microsoft Office, Google Apps Script, Node.js, JSON, Oracle, Pandas, Tkinter, REST API, Microsoft Azure, Amazon RDS, Azure Blob Storage, TensorFlow
+- **Programming Languages**: Python, C++, Java, JavaScript, React, HTML & CSS, R, SQL, ARM Assembly Language, DAX, MATLAB, VBA
+- **Technologies**: JetBrains IDEs, Git, Power BI, GDB, Microsoft Office, Google Apps Script, Chart.js, Node.js, JSON, Oracle, Pandas, Tkinter, REST API, Microsoft Azure, Amazon RDS, Azure Blob Storage, TensorFlow
 - **Soft Skills**: Agile, problem-solving, teamwork, communication, time management, precision
 
 ## 👀 Interests
