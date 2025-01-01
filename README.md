@@ -61,8 +61,8 @@ I’m a third-year computer science student at the University of Florida with a 
 
 ## 💡 Skills
 
-- **Programming Languages**: Python, C++, Java, JavaScript, React, HTML & CSS, R, SQL, ARM Assembly Language, DAX, MATLAB, VBA
-- **Technologies**: JetBrains IDEs, Git, Power BI, GDB, Microsoft Office, Google Apps Script, Chart.js, Node.js, JSON, Oracle, Pandas, Tkinter, REST API, Microsoft Azure, Amazon RDS, Azure Blob Storage, TensorFlow
+- **Programming Languages**: Python, C++, Java, JavaScript, HTML & CSS, R, SQL, ARM Assembly Language, DAX, MATLAB, VBA
+- **Technologies**: JetBrains IDEs, Git, Power BI, GDB, Microsoft Office, Google Apps Script, Chart.js, Node.js, React, JSON, Oracle, Pandas, Tkinter, REST API, Microsoft Azure, Amazon RDS, Azure Blob Storage, TensorFlow
 - **Soft Skills**: Agile, problem-solving, teamwork, communication, time management, precision
 
 ## 👀 Interests
