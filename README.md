@@ -1,15 +1,15 @@
-## 👋 Hey there, I’m Ajay!
+## Hey there, I’m Ajay!
 
 I’m a third-year computer science student at the University of Florida with a love for tackling interesting tech challenges. Whether it’s coding up a new project or finding creative solutions, I’m always up for diving into something new. I’ve picked up some solid programming skills and hands-on experience along the way, and I’m excited to see where the next project takes me. Feel free to explore my repositories and see what I’m working on—I’m always keen to share and collaborate on cool tech projects!
 
-## 🎓 Education
+## Education
 
 - **University of Florida**  
   *Bachelor of Science in Computer Science* (Third-year student)  
   **Relevant Coursework**: Data Structures & Algorithms, Programming Fundamentals 1 & 2, Computational Linear Algebra, Engineering Statistics, Applications of Discrete Structures, Artificial Intelligence Fundamentals, Operating Systems
 
 
-## 🕹️ Software Development Projects
+## Software Development Projects
 
 - **CrashFatalityAnalysis**  
   Analyze real vehicle fatality data from 1996 to 2022 with this dynamic dashboard. It enables you to explore fatality rates by make, model, and year, helping identify vehicles with the highest fatality rates and uncover discrepancies in crash ratings. Ideal for researchers and anyone interested in evaluating the real-world safety of vehicles beyond official ratings.
@@ -36,7 +36,7 @@ I’m a third-year computer science student at the University of Florida with a 
   Transformed the classic Sudoku puzzle into an engaging GUI experience. Solve puzzles with interactive features like drag-and-drop and real-time validation. This version makes solving Sudoku not just a challenge but a visually captivating and interactive experience.
 
 
-## 💼 Relevant Work Experience
+## Relevant Work Experience
 
 - **Software Engineering Intern** | **Southeast Toyota Distributors, LLC** | Jacksonville, Florida, United States  
   *Jun 2024 - Aug 2024 (3 months)*  
@@ -59,17 +59,17 @@ I’m a third-year computer science student at the University of Florida with a 
   Engineered a high-performance vision system with real-time color detection, optimizing robot interactions for the FIRST Robotics Competition. Enhanced hardware-software  integration and used GitHub for streamlined collaboration and rapid development.
 
 
-## 💡 Skills
+## Skills
 
 - **Programming Languages**: Python, C++, Java, JavaScript, HTML & CSS, R, SQL, ARM Assembly Language, DAX, MATLAB, VBA
 - **Technologies**: JetBrains IDEs, Git, Power BI, GDB, Microsoft Office, Google Apps Script, Chart.js, Node.js, React, JSON, Oracle, Pandas, Tkinter, REST API, Microsoft Azure, Amazon RDS, Azure Blob Storage, TensorFlow
 - **Soft Skills**: Agile, problem-solving, teamwork, communication, time management, precision
 
-## 👀 Interests
+## Interests
 
 Software development, particularly backend development and machine learning. Eager to learn new technologies and enhance skills through projects and collaboration.
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - **Email**: [ajaysommi7@gmail.com](mailto:ajaysommi7@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/ajay-sommi](https://www.linkedin.com/in/ajay-sommi)
