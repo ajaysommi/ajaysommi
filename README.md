@@ -48,9 +48,13 @@ Over time, I’ve built full-stack apps, cloud pipelines, dev tools no one asked
 
 ## Relevant Work Experience
 
+- **Software Engineering Intern** | **JM Family Enterprises, Inc.** | Deerfield Beach, Florida, United States (Headquarters)   
+  *May 2025 - Aug 2025 (4 months)*  
+  Booting up... amazing things pending.
+  
 - **Software Engineering Intern** | **Southeast Toyota Distributors, LLC** | Jacksonville, Florida, United States  
   *Jun 2024 - Aug 2024 (3 months)*  
-  Engineered Python solutions with REST API to extract 1000+ URLs from Azure Blob Storage, retrieve Excel files, and upload them to SharePoint. Utilized SQL for tire/wheel data analysis of 51,000+ vehicles, producing 21+ reports. Automated tracking of 160+ accessory projects, boosting data visibility by 30%. Implemented OCR techniques for data input and designed a Power BI dashboard, reducing project entry time by 500%.
+  Built a Python tool that grabbed over 1,000 files (more being added daily) from Azure Blob Storage, cleaned them up, and sent them to SharePoint using a REST API. Dug through data on 51,000+ Toyota and Lexus vehicles using SQL to create reports on tire and wheel balance info. Also set up a smoother way to track over 160 accessory projects so the team could see what’s going on at a glance. Threw in some OCR and Power BI magic to make data entry way faster and easier.
 
 - **Software Engineering Intern** | **Robotics For All** | Palo Alto, California, United States  
   *Mar 2022 - Jan 2023 (11 months)*  
