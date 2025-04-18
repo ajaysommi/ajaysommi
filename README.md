@@ -1,18 +1,28 @@
 ## Hey there, I’m Ajay!
 
-I’m a third-year computer science student at the University of Florida with a love for tackling interesting tech challenges. Whether it’s coding up a new project or finding creative solutions, I’m always up for diving into something new. I’ve picked up some solid programming skills and hands-on experience along the way, and I’m excited to see where the next project takes me. Feel free to explore my repositories and see what I’m working on—I’m always keen to share and collaborate on cool tech projects!
+Welcome to my code jungle.
+
+I’ve probably caused more segmentation faults than there are alligators in Gainesville. I’ve stared down cursed stack traces, unresponsive frontends, race conditions that only happen sometimes, and hours wondering why nothing works before realizing I was in the wrong directory. Still here. Still coding.
+
+Over time, I’ve built full-stack apps, cloud pipelines, dev tools no one asked for, and squashed more bugs than I’d like to admit (lost count somewhere around 500). Every project has left behind a lesson or a scar — the kind that actually sticks and shapes how I build today. Feel free to explore the chaos; most of it runs surprisingly well.
 
 ## Education
 
 - **University of Florida**  
-  *Bachelor of Science in Computer Science* (Third-year student)  
-  **Relevant Coursework**: Data Structures & Algorithms, Programming Fundamentals 1 & 2, Computational Linear Algebra, Engineering Statistics, Applications of Discrete Structures, Artificial Intelligence Fundamentals, Operating Systems
+  *Bachelor of Science in Computer Science and Machine Learning* (Third-year student)  
+  **Relevant Coursework**: Data Structures & Algorithms, Natural Lang Processing, Intro to ML, Computational Linear Algebra, Engineering Statistics, Applications of Discrete Structures, Artificial Intelligence Fundamentals, Databases, Operating Systems
 
 
 ## Software Development Projects
 
+- **GatorGoods**  
+  A simple marketplace for UF students to buy and sell items. It lets users easily list products, browse listings, and connect with others on campus. Built with React, Node.js, and MongoDB, it provides a smooth full-stack experience.
+
 - **CrashFatalityAnalysis**  
   Analyze real vehicle fatality data from 1996 to 2022 with this dynamic dashboard. It enables you to explore fatality rates by make, model, and year, helping identify vehicles with the highest fatality rates and uncover discrepancies in crash ratings. Ideal for researchers and anyone interested in evaluating the real-world safety of vehicles beyond official ratings.
+
+- **Real-World Tire and Wheel Data Streamlining for Toyota/Lexus VPC Operations**  
+  Built an automated pipeline using a REST API to process tire and wheel balance data from Hunter reports, integrating it into Southeast Toyota’s Vehicle Processing Center (VPC) portal. Streamlined workflows for all new Toyota/Lexus vehicles entering the facility.
   
 - **VehicleInsightHub**  
   Unlocks powerful vehicle monitoring with a live, easy-to-use dashboard that gives you the full picture in seconds. From tracking fuel efficiency to keeping an eye on tire pressure and engine health, this tool turns raw data into clear, actionable insights. Whether you’re managing a fleet or just love your car, it’s your go-to hub for smarter decisions and hassle-free maintenance!
@@ -74,6 +84,7 @@ Software development, particularly backend development and machine learning. Eag
 - **Email**: [ajaysommi7@gmail.com](mailto:ajaysommi7@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/ajay-sommi](https://www.linkedin.com/in/ajay-sommi)
 
-## 📈 Goals
+## Goals
 
-Seeking internship opportunities in software development to apply skills, learn from industry professionals, and contribute to meaningful projects. Aiming to gain practical experience and continue growth as a developer, preparing for a successful tech career.
+Break more things — but this time in production (with logging).
+Learn from smarter people, write code that future me won’t curse at, and maybe even ship something that makes life easier for someone else. Or at least makes me look cool in a sprint review.
