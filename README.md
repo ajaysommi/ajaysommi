@@ -15,14 +15,20 @@ Over time, I’ve built full-stack apps, cloud pipelines, dev tools no one asked
 
 ## Software Development Projects
 
+- **Stateless IRS API Integration with Field-Level Encryption in Salesforce**  
+  Wrote Apex code in Salesforce to connect with the IRS API and automate 1099 tax form generation for Toyota and Lexus dealership employees who win contests. Handled everything from API callouts to field-level encryption, making sure sensitive info like TINs is processed securely without ever being stored (in-memory processing).
+  
+- **Real-World Tire and Wheel Data Streamlining for Toyota/Lexus VPC Operations**  
+  Built an automated pipeline using a REST API to process tire and wheel balance data from Hunter reports, integrating it into Southeast Toyota’s Vehicle Processing Center (VPC) portal. Streamlined workflows for all new Toyota/Lexus vehicles entering the facility.
+
+- **Cloud-Based ETL Pipeline for Transforming CosmosDB JSON into Relational Models**  
+  Wrote .NET code to migrate data from CosmosDB into Azure SQL, transforming raw JSON docs into clean, queryable tables. Helped the team ditch manual data prep and analyze insights faster in downstream systems.
+  
 - **GatorGoods**  
-  A simple marketplace for UF students to buy and sell items. It lets users easily list products, browse listings, and connect with others on campus. Built with React, Node.js, and MongoDB, it provides a smooth full-stack experience.
+  A marketplace for UF students to buy and sell items. It lets users easily list products, browse listings, and connect with others on campus. Built with React, Node.js, and MongoDB, it provides a smooth full-stack experience.
 
 - **CrashFatalityAnalysis**  
   Analyze real vehicle fatality data from 1996 to 2022 with this dynamic dashboard. It enables you to explore fatality rates by make, model, and year, helping identify vehicles with the highest fatality rates and uncover discrepancies in crash ratings. Ideal for researchers and anyone interested in evaluating the real-world safety of vehicles beyond official ratings.
-
-- **Real-World Tire and Wheel Data Streamlining for Toyota/Lexus VPC Operations**  
-  Built an automated pipeline using a REST API to process tire and wheel balance data from Hunter reports, integrating it into Southeast Toyota’s Vehicle Processing Center (VPC) portal. Streamlined workflows for all new Toyota/Lexus vehicles entering the facility.
   
 - **VehicleInsightHub**  
   Unlocks powerful vehicle monitoring with a live, easy-to-use dashboard that gives you the full picture in seconds. From tracking fuel efficiency to keeping an eye on tire pressure and engine health, this tool turns raw data into clear, actionable insights. Whether you’re managing a fleet or just love your car, it’s your go-to hub for smarter decisions and hassle-free maintenance!
