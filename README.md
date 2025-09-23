@@ -21,11 +21,17 @@ Over time, I’ve built full-stack apps, cloud pipelines, dev tools no one asked
 - **Real-World Tire and Wheel Data Streamlining for Toyota/Lexus VPC Operations**  
   Built an automated pipeline using a REST API to process tire and wheel balance data from Hunter reports, integrating it into Southeast Toyota’s Vehicle Processing Center (VPC) portal. Streamlined workflows for all new Toyota/Lexus vehicles entering the facility.
 
+- **SommiScript — Lightweight Programming Language & Interpreter**  
+  Designed and implemented a custom scripting language from scratch for learning and experimentation. Built with an expressive, Python/JavaScript-inspired syntax and a lightweight interpreter in Java, enabling quick execution and exploration of language design and compiler concepts.
+
 - **Cloud-Based ETL Pipeline for Transforming CosmosDB JSON into Relational Models**  
   Wrote .NET code to migrate data from CosmosDB into Azure SQL, transforming raw JSON docs into clean, queryable tables. Helped the team ditch manual data prep and analyze insights faster in downstream systems.
   
 - **GatorGoods**  
   A marketplace for UF students to buy and sell items. It lets users easily list products, browse listings, and connect with others on campus. Built with React, Node.js, and MongoDB, it provides a smooth full-stack experience.
+
+- **Custom WAD File System with FUSE Integration**  
+  Created a working file system in C++ from the ground up — the same core technology your computer uses every day to organize files and folders. Implemented directory creation, file storage, and data retrieval inside WAD archives, then connected it to FUSE so it could be mounted and browsed just like a real operating system’s file system.
 
 - **CrashFatalityAnalysis**  
   Analyze real vehicle fatality data from 1996 to 2022 with this dynamic dashboard. It enables you to explore fatality rates by make, model, and year, helping identify vehicles with the highest fatality rates and uncover discrepancies in crash ratings. Ideal for researchers and anyone interested in evaluating the real-world safety of vehicles beyond official ratings.
