@@ -6,6 +6,8 @@ I’ve probably caused more segmentation faults than there are alligators in Gai
 
 Over time, I’ve built full-stack apps, cloud pipelines, dev tools no one asked for, and squashed more bugs than I’d like to admit (lost count somewhere around 500). Every project has left behind a lesson or a scar — the kind that actually sticks and shapes how I build today. Feel free to explore the chaos; most of it runs surprisingly well.
 
+Check out my website: https://ajaysommi.github.io!
+
 ## Education
 
 - **University of Florida**  
